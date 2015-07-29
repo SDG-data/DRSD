@@ -1,0 +1,42 @@
+{
+  "commitments":[
+    {
+      "title":"Statistical capacity building across Africa",
+      "commitment":"The African Union Commission will commit to facilitate and coordinate statistical capacity building across the continent to ensure the production of timely and harmonised statistics for evidence-based decision-making and tracking progress on the implementation of the SDGs on the continent. The Commission also will promote innovative partnerships on the continent to make the Data Revolution a reality by including data from new sources to monitor the progress on the implementation of the new Post-2015 Development Agenda and the Agenda 2063 as well as by identifying gaps, building capacity and sharing best practices to address challenges.",
+      "entities":"African Union Commission",
+      "source":"",
+      "date":""
+    },
+    {
+      "title":"Scaling up support for Civil Registration and Vital Statistics",
+      "commitment":"The WBG is committed to the goal of universal civil registration of births, deaths and other vital events, including reporting cause of death, and access to legal proof of registration for all individuals by 2030. The WBG is committed to working with development partners to assist countries in achieving the intermediate target of 80% birth registration coverage by 2020 as outlined in the Global Civil Registration and Vital Statistics Scaling Up Investment Plan (2015-2024). Additionally, a Global Financing facility is being launched, with US$100m committed to supporting Civil Registration and Vital Statistics strengthening.",
+      "entities":"World Bank",
+      "source":"data.worldbank.org/HDRSD",
+      "date":""
+    },
+    {
+      "title":"Funding to fill key development data gaps for social and economic indicators",
+      "commitment":"Countries have indicated that more support is urgently needed to fund surveys to fill data gaps and measure sustainable development progress. As a first step, the WBG and the United Kingdom Department for International Development (DFID) are in the final stages of agreeing on additional funding that would allow 10-15 countries to sustainably produce better surveys underlying poverty and key economic indicators. Given the urgency to fill data gaps, this support will target activities over the next eighteen months in countries demonstrating their commitment to pursue evidence-based decisions and their capacity to absorb funding efficiently. This support will be provided through the WBG’s Trust Fund for Statistical Capacity Building (TFSCB), which has been funding countries to improve their statistics for over a decade. For more information on how the TFSCB is being re-purposed to support filling key development data gaps for the Sustainable Development Goals, please follow this link: http://www.worldbank.org/content/dam/Worldbank/Statcap/HDRSD/TFSCB_overview.pdf",
+      "entities":"World Bank",
+      "source":"data.worldbank.org/HDRSD",
+      "date":""
+    },
+    {
+      "title":"Fostering innovations in development data production and use",
+      "commitment":"The WBG is working to establish a Trust Fund for Innovations in Development Data (TFIDD) to promote a common funding source for innovations in data production and use. The TFIDD would primarily fund scalable or replicable innovations in technology and innovations in approaches (such as new partnerships) to improve data on the ground. Consultations are in the early stages, but the TFIDD will aim to raise $100m over five years to provide this support. For more information, please follow this link: http://www.worldbank.org/content/dam/Worldbank/Statcap/HDRSD/TFIDD.pdf",
+      "entities":"World Bank",
+      "source":"data.worldbank.org/HDRSD",
+      "date":""
+    },
+    {
+      "title":"Deepening partnership with other multilateral institutions",
+      "commitment":"As part of the WBG’s commitment to working smarter, the institution joins the International Monetary Fund, United Nations, and other Multilateral Development Banks in deepening their collaboration to improve information for the post-2015 agenda. These institutions’ commitment builds on their joint April 2013 Memorandum of Understanding to improve their partnership in statistical activities. A note documents their engagement in the data aspects of the Sustainable Development Goals process and highlights future commitments.",
+      "entities":"World Bank",
+      "source":"data.worldbank.org/HDRSD",
+      "date":""
+    }
+  ],
+  "meta":{
+    "description":"List of commitments for Harnessing the Data Revolution for Sustainable Development."
+  }
+}
